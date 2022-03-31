@@ -12,7 +12,7 @@ class Program
         // This function calculates the area of a square
         float sideValue;
 
-        Console.WriteLine("This program finds the area of a sqaure.");
+        Console.WriteLine("This program finds the area of a square.");
         Console.WriteLine("");
         Console.WriteLine("Enter the side value (cm) : ");
         sideValue = Convert.ToSingle(Console.ReadLine());
